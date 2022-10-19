@@ -3,7 +3,7 @@ site_name: RTEU Course Notes Templates
 docs_dir: docs  # Where to find the English markdown files
 site_dir: site  # Where to put the English HTML files
 site_author: 'Abdul Samed Kara'
-site_url: 'https://github.com/abdulsamed57/ce103-algorithms-and-programming-I'
+site_url: 'https://abdulsamed57.github.io/ce103-algorithms-and-programming-I/'
 
 site_description_en: >-
     Course Notes Templates
